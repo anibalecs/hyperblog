@@ -1,9 +1,9 @@
 body {
-    color: #333;
+    color: red;
     text-align: center;
     font-family: "";
     font-size: large;
-    margin: 0;
+    margin: 10;
     padding: 0;
 }
 
