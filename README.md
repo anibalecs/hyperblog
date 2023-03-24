@@ -8,6 +8,7 @@ Un blog de curso de git y github.
 * El flujo de trabajo en Github.
 * La verdadera pasion para las buenas practicas.
 * Algunos trucos utiles del profesor.
-* Creado por anibal para el curso de platzi,
-
+* Creado por anibal para el curso de platzi.
+* Aunque incluía ejemplos en windows, linux y mac yo lo hice en en windows.
+* Disponible para todas las edades. 
 Y como un buen recordatorio: no tomen enserio **Este readme.md es un ejemplo** del curso para eprender, cualquier cosa [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "ve a ver el curso"). 
